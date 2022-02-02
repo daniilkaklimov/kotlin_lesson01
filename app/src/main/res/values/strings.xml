@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin_lesson1</string>
+    <string name="textView_text">Нажми на меня!</string>
+    <string name="button_text">Тык!</string>
+    <string name="button_person_text">Посмотреть людей?</string>
+    <string name="title_activity_main2">Вторая активити</string>
+</resources>
